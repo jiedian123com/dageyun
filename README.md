@@ -22,9 +22,11 @@
 
 ## 大哥云机场测速
 
+![dageyun-SpeedTest-SZDX](https://github.com/jiedian123com/dageyun/assets/152299361/b072b88b-9bd1-4d50-badd-cb775c0f53b1)
 
 ## 大哥云出入口分析
 
+![dageyun-Network-Topology-SZDX](https://github.com/jiedian123com/dageyun/assets/152299361/631399af-f413-4694-906d-e4a13dc1751c)
 
 ## 大哥云跑路
 目前大哥云没有跑路，可以放心使用。
